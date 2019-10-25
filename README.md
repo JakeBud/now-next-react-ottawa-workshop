@@ -1,0 +1,1 @@
+# now-next-react-ottawa-workshop
